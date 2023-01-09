@@ -1,1 +1,1 @@
-This project attempts to explore the concept of import in python 
+This project attempts to explore the concept of import in python programming language
